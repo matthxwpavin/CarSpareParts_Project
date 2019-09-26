@@ -7,11 +7,11 @@ Developed by JAVA language on NetbeanIDE 8.2
 
 [![message-Image-1569262666050.jpg](https://i.postimg.cc/NjRLy8gZ/message-Image-1569262666050.jpg)](https://postimg.cc/185y2qVK)
 
--Checking
+-Editing&Improving
 
 [![Untitled.png](https://i.postimg.cc/x13GJpSb/Untitled.png)](https://postimg.cc/5XjQD3yx)
 
--Editing&Improving
+-Checking
 
 [![Untitled2.png](https://i.postimg.cc/LXcg0jpp/Untitled2.png)](https://postimg.cc/5YmtXYy7)
 
